@@ -1,0 +1,4 @@
+initLocal;
+createProject --project-name 'TUJ_Project' --project-author 'auto@test.com' --project-description 'TUJ project description' --project-language 'java';
+logonProject --project-name 'TUJ_Project' --user-login 'auto@test.com' --user-password admin;
+importItems 'TUJ_Path' --overwrite
