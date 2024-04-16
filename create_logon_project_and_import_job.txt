@@ -1,3 +1,0 @@
-initLocal;
-createProject --project-name 'TUJ_PROJECT' --project-author 'auto@test.com' --project-description 'TUJ project description' --project-language 'java';
-logonProject --project-name 'TUJ_PROJECT' --user-login 'auto@test.com' --user-password admin;
