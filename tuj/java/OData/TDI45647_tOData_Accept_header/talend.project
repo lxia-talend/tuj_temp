@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_DwbZARZLEe-zpfKy3QTHNQ" label="Local_Project" description="" language="java" technicalLabel="LOCAL_PROJECT" local="true" author="_Dxl2oBZLEe-zpfKy3QTHNQ" productVersion="Talend Data Fabric-8.0.1.20240418_1105-patch" type="MDM" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_D6G5cBZLEe-zpfKy3QTHNQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_Dxl2oBZLEe-zpfKy3QTHNQ" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
