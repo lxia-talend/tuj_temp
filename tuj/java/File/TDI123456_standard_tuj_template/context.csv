@@ -1,0 +1,13 @@
+# This file contains specific context values for the associated TUJ. It must not contains sensitive values as credentials (should be in template.csv in tuj-config which is a private repository)
+filename,myEmptyFile.txt
+filesize,0
+
+
+result_database,tuj
+result_host,10.50.34.51
+result_password,componentqa
+result_port,3306
+result_table,tuj
+result_username,componentqa
+
+
